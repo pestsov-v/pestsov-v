@@ -11,9 +11,9 @@
 - Различные библиотеки: Passport.js, Crypto, Nodemailer, Stripe, Multer, JWT, CSRF, Node-telegram-bot-api и другие.
 - API документация: Postman, Swagger.
 
-При этом проекты задевают различные архитектуры и стили написания кода, такие как TDD, microservice и monolit.
+При этом проекты затрагивают различные типы архитектур и стили написания кода, такие как: TDD, microservice и monolit.
 
-В отдельных репозиториях подробно разобраны теоритические элементы:
+В отдельных репозиториях подробно разобраны также теоритические элементы:
 - [Алгоритмы и структуры данных с примерами и пошаговым объяснением](https://github.com/AveselsJS/data-structures-and-algorithms).
 - [Паттерны проектирования на typescript с комментариями](https://github.com/AveselsJS/Typescript-OOP-pattern).
 - Выжимки по всем возможностям [MongoDB](https://github.com/AveselsJS/MongoDB-and-mongoose-shorts) и [PostgreSQL](https://github.com/AveselsJS/PosgreSQL-shorts) с примерами и подробным объяснением.
