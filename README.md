@@ -9,7 +9,7 @@
 - Тестирование: Jest.
 - Шаблонизаторы: Pug, Handlebars.
 - Различные библиотеки: Passport.js, Crypto, Nodemailer, Stripe, Multer, JWT, CSRF, Node-telegram-bot-api и другие.
-- Создание API документации: Postman, Swagger.
+- API документация: Postman, Swagger.
 
 При этом проекты задевают различные архитектуры и стили написания кода, такие как TDD, microservice и monolit.
 
