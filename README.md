@@ -1,6 +1,6 @@
 ## Backend на Node.js ✔️
 
-Начиная создание серверного API для веб-приложений на JavaScript и Express продолжая на TypeScript и Nest.js ⤴️
+Начиная создание серверного API для веб-приложений на JavaScript и Express продолжая на TypeScript и Nest.js
 
 На данный момент проекты основываются на следующем стэке технологий: 
 - Язык программирования и фрэймворки: JavaScript, Express.
