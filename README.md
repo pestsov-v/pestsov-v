@@ -16,4 +16,4 @@
 В отдельных репозиториях подробно разобраны также теоритические элементы:
 - [Алгоритмы и структуры данных с примерами и пошаговым объяснением](https://github.com/AveselsJS/data-structures-and-algorithms).
 - [Паттерны проектирования на typescript с комментариями](https://github.com/AveselsJS/Typescript-OOP-pattern).
-- Выжимки по всем возможностям [MongoDB](https://github.com/AveselsJS/MongoDB-and-mongoose-shorts) и [PostgreSQL](https://github.com/AveselsJS/PosgreSQL-shorts) с примерами и подробным объяснением.
+- Выжимки по всем возможностям [MongoDB](https://github.com/AveselsJS/MongoDB-and-mongoose-shorts), [PostgreSQL](https://github.com/AveselsJS/PosgreSQL-shorts) и [Docker](https://github.com/AveselsJS/docker-shorts) с примерами и объяснениями
