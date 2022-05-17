@@ -1,6 +1,6 @@
 ## Backend на Node.js ✔️
 
-Начиная создание серверного API для веб-приложений на JavaScript 📒 и Express продолжая на TypeScript 📘 и Nest.js.
+Создание API для веб-приложений на JavaScript, Typescript, Express и Nest.js.
 
 ### Стэк технологий:
 - Языки программирования: JavaScript ([Список проектов](https://github.com/stars/pestsov-v/lists/pestsov-v-javascript-projects)), Typescript ([Список проектов](https://github.com/stars/pestsov-v/lists/pestsov-v-typescript-projects)).
