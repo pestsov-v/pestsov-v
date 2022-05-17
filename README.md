@@ -1,19 +1,30 @@
 ## Backend на Node.js ✔️
 
-Начиная создание серверного API для веб-приложений на JavaScript и Express продолжая на TypeScript и Nest.js
+Начиная создание серверного API для веб-приложений на JavaScript 📒 и Express продолжая на TypeScript 📘 и Nest.js.
 
-На данный момент проекты основываются на следующем стэке технологий: 
-- Язык программирования и фрэймворки: JavaScript, Express.
-- Базы данных: MongoDB, PostgreSQL (как напрямую через pgAdmin и пакетом pg так и через Sequelize).
-- Контейнеризация: Docker, Ansible и Kubernetes.
-- Тестирование: Jest.
-- Шаблонизаторы: Pug, Handlebars.
-- Различные библиотеки: Passport.js, Crypto, Nodemailer, Stripe, Multer, JWT, CSRF, Node-telegram-bot-api и другие.
-- API документация: Postman, Swagger.
+### Стэк технологий:
+- Языки программирования: JavaScript ([Список проектов](https://github.com/stars/pestsov-v/lists/pestsov-v-javascript-projects)), Typescript ([Список проектов](https://github.com/stars/pestsov-v/lists/pestsov-v-typescript-projects)).
+- Фреймворки: Express.js ([Список проектов](https://github.com/stars/pestsov-v/lists/pestsov-v-express-js)), Nest.js ([Список проектов](https://github.com/stars/pestsov-v/lists/pestsov-v-nest-js)).
+- Базы данных: MongoDB ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=mongodb&type=&language=&sort=)), PostgreSQL ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=postgresql&type=&language=&sort=)), Redis ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=redis&type=&language=&sort=)).
+- ORM: Sequelize ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=sequelize&type=&language=&sort=)), TypeORM ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=typeorm&type=&language=&sort=)).
+- Тестирование: Jest ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=jest&type=&language=&sort=)).
+- Шаблонизаторы: Pug ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=pug&type=&language=&sort=)), Handlebars ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=handlebars&type=&language=&sort=)).
+- Телеграм боты: Node-telegram-bot-api ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=node-telegram-bot-api&type=&language=&sort=)).
+- Контейнеризация: Docker ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=docker&type=&language=&sort=)).
+- API документация: Postman, Swagger ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=swagger&type=&language=&sort=)).
+- Различные библиотеки: JWT, Passport.js, Bcrypt, CSURF, helmet, pm2, compression, Nodemailer, Stripe, Multer и другие.
 
-При этом проекты затрагивают различные типы архитектур и стили написания кода, такие как: TDD, microservice и monolit.
+### Технологии обмена данными: 
+- REST API ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=rest-api&type=&language=&sort=)).
+- Socket.io ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=socketio&type=&language=&sort=)).
 
-В отдельных репозиториях подробно разобраны также теоритические элементы:
-- [Алгоритмы и структуры данных с примерами и пошаговым объяснением](https://github.com/AveselsJS/data-structures-and-algorithms).
-- [Паттерны проектирования на typescript с комментариями](https://github.com/AveselsJS/Typescript-OOP-pattern).
-- Выжимки по всем возможностям [MongoDB](https://github.com/AveselsJS/MongoDB-and-mongoose-shorts), [PostgreSQL](https://github.com/AveselsJS/PosgreSQL-shorts) и [Docker](https://github.com/AveselsJS/docker-shorts) с примерами и объяснениями
+### Теоретическая информация по работе отдельных технологий:
+- [Docker](https://github.com/pestsov-v/docker-shorts).
+- [MongoDB и mongoose](https://github.com/pestsov-v/MongoDB-and-mongoose-shorts).
+- [PostgreSQL](https://github.com/pestsov-v/PosgreSQL-shorts).
+- [Nest.js](https://github.com/pestsov-v/nest.js-shorts).
+- [lodash](https://github.com/pestsov-v/lodash-shorts).
+
+### База знаний и практик по программированию:
+- [Алгоритмы и структуры данных](https://github.com/pestsov-v/data-structures-and-algorithms).
+- [Паттерны проектирования на TypeScript](https://github.com/pestsov-v/Typescript-OOP-pattern).
