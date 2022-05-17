@@ -19,11 +19,8 @@
 - Socket.io ([Список проектов](https://github.com/pestsov-v?tab=repositories&q=socketio&type=&language=&sort=)).
 
 ### Теоретическая информация по работе отдельных технологий:
-- [Docker](https://github.com/pestsov-v/docker-shorts).
-- [MongoDB и mongoose](https://github.com/pestsov-v/MongoDB-and-mongoose-shorts).
-- [PostgreSQL](https://github.com/pestsov-v/PosgreSQL-shorts).
-- [Nest.js](https://github.com/pestsov-v/nest.js-shorts).
-- [lodash](https://github.com/pestsov-v/lodash-shorts).
+- Базы данных: [MongoDB и mongoose](https://github.com/pestsov-v/MongoDB-and-mongoose-shorts), [PostgreSQL](https://github.com/pestsov-v/PosgreSQL-shorts).
+- Технологии и библиотеки: [Nest.js](https://github.com/pestsov-v/nest.js-shorts), [Docker](https://github.com/pestsov-v/docker-shorts), [lodash](https://github.com/pestsov-v/lodash-shorts).
 
 ### База знаний и практик по программированию:
 - [Алгоритмы и структуры данных](https://github.com/pestsov-v/data-structures-and-algorithms).
